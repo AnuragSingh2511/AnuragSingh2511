@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack, Low-Level Design and Data Structures and Algorithms.**
 
-- 📫 How to reach me **anurocks.aps@gmail.com**
+- 📫 How to reach me **anurag.singhwebdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
